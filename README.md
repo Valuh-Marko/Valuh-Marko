@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Marko 👋
+I'm a Front-End developer who cares deeply about user experience. Striving for simplicity, elegance and a great challenge!
+
 
 <!--
 **Valuh-Marko/Valuh-Marko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
