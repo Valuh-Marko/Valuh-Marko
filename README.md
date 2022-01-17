@@ -20,4 +20,4 @@ Striving for simplicity, elegance and a great challenge!
 ## You can find me on
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-valuh/)
 
-Also, check out my [website](https://valuh-marko.github.io/mv-resume/#/mv-resume/)!  
+## Also, check out my [website](https://valuh-marko.github.io/mv-resume/#/mv-resume/)!  
